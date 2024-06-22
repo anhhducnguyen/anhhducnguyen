@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/osezer/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/osezer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A66C2?logo=Instagram&logoColor=white"></a>
 </p>
 
 <p align="left">

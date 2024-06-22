@@ -30,7 +30,7 @@
 <h2 align="center"><strong>Tools and Skills</strong></h2>
 <h3 align="left">Programming</h3>
 <p>
-    <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
+    <img alt="c" src="https://img.shields.io/badge/-%231572B6.svg?logo=C&logoColor=white"></img>
     <img alt="cpp" src="https://img.shields.io/badge/++-%231572B6.svg?logo=C&logoColor=white"></img>
     <img alt="C_sharp" src="https://img.shields.io/badge/%23-2F0076.svg?logo=C&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
@@ -78,14 +78,14 @@
 <h3 align="left">Software and tools</h3>
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-44A833.svg?logo=Vim&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-F58025?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-%2391E6.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84.svg?logo=androidstudio&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/JupyterNotebook-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=Anaconda&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-44A833.svg?logo=Vim&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-%2391E6.svg?logo=visual-studio&logoColor=white"></a>
 </p>
 
 <h3 align="left">Linux Distributions</h3>

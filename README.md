@@ -70,6 +70,7 @@ Here is my Arsenal Tools and Skills I use;
 <p>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
 <h3 align="left">Software and tools</h3>
@@ -106,7 +107,6 @@ Here is my Arsenal Tools and Skills I use;
 <p>
     <a href="#"><img alt="Unit_test" src="https://img.shields.io/badge/Unit test-232F3E.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=python&logoColor=white"></a>
-
 </p>
 
 <h3 align="left">UML</h3>

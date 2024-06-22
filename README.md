@@ -102,6 +102,18 @@ Here is my Arsenal Tools and Skills I use;
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
+<h3 align="left">Testing</h3>
+<p>
+    <a href="#"><img alt="Unit_test" src="https://img.shields.io/badge/Unit test-232F3E.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=python&logoColor=white"></a>
+
+</p>
+
+<h3 align="left">UML</h3>
+<p>
+    <a href="#"><img alt="Diagram" src="https://img.shields.io/badge/Diagram-232F3E.svg?logo=Diagram&logoColor=white"></a>
+</p>
+
 
 
 

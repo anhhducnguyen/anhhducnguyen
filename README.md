@@ -2,6 +2,17 @@
 <a href="https://github.com/anhhducnguyen"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Duc Anh;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
+```
+🔭 I’m currently working on simple but elegant mobile and web apps
+🌱 I’m currently learning Everything I like
+👯 I’m looking to collaborate on trustable People
+🤔 I’m looking for help with developer Forums
+💬 Ask me about Things I know
+📫 How to reach me: On the Air for Everything
+😄 Pronouns: Me
+⚡ Fun fact: Mention only what I know based on the truth.
+```
+
 <p align="center">
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF3474?logo=Instagram&logoColor=white"></a>
@@ -16,7 +27,6 @@
 <br>
 
 Here is my Arsenal Tools and Skills I use;
-
 <h3 align="left">Programming</h3>
 <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8.svg?logo=PHP&logoColor=white"></img>

@@ -29,14 +29,16 @@
 Here is my Arsenal Tools and Skills I use;
 <h3 align="left">Programming</h3>
 <p>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8.svg?logo=PHP&logoColor=white"></img>
+    <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
+    <img alt="cpp" src="https://img.shields.io/badge/++-%231572B6.svg?logo=C&logoColor=white"></img>
+    <img alt="C_sharp" src="https://img.shields.io/badge/%23-2F0076.svg?logo=C&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-00979D?logo=dart&logoColor=white"></img>
-    <img alt="cpp" src="https://img.shields.io/badge/++-2391E6.svg?logo=C&logoColor=white"></img>
-    <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8.svg?logo=PHP&logoColor=white"></img>
+    
 </p>
 
 <h3 align="left">Backend-as-a-Service (Baas)</h3>

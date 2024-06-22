@@ -1,5 +1,9 @@
 <p align="center">
-<a href="https://github.com/anhhducnguyen"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Duc Anh;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<!-- <a href="https://github.com/anhhducnguyen"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Duc Anh;Nice+to+meet+you!" alt="Typing SVG" /></a> -->
+<a href="https://github.com/anhhducnguyen">
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=24&pause=2000&color=347D39&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Duc+Anh;Nice+to+meet+you!" alt="Typing SVG" />
+</a>
+
 </p>
 
 ```
@@ -27,7 +31,7 @@
 <br>
 
 
-<h3 align="center"><strong>Here is my Arsenal Tools and Skills I use</strong></h3>
+<h2 align="center"><strong>Tools and Skills</strong></h2>
 <h3 align="left">Programming</h3>
 <p>
     <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
@@ -116,7 +120,12 @@
     <a href="#"><img alt="Diagram" src="https://img.shields.io/badge/Diagram-232F3E.svg?logo=Diagram&logoColor=white"></a>
 </p>
 
-<h3 align="center">Contact</h3>
+<h2 align="center"><strong>Contact</strong></h2>
+
+<p>If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you.</p>
+
+- Don't hesitate to email me at [text](mailto:se.anh.nguyenduc@gmail.com) I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
+
 
 
 

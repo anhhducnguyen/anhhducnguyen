@@ -17,12 +17,6 @@
 ⚡ Fun fact: Mention only what I know based on the truth.
 ```
 
-
-
-<p align="left">
-
-</p>
-
 <br>
 <br>
 
@@ -30,22 +24,19 @@
 <h2 align="center"><strong>Tools and Skills</strong></h2>
 <h3 align="left">Programming</h3>
 <p>
-    <img alt="c" src="https://img.shields.io/badge/-%231572B6.svg?logo=C&logoColor=white"></img>
-    <img alt="cpp" src="https://img.shields.io/badge/++-%231572B6.svg?logo=C&logoColor=white"></img>
-    <img alt="C_sharp" src="https://img.shields.io/badge/%23-2F0076.svg?logo=C&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></img>
+    <img alt="c" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></img>
+    <img alt="cpp" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></img>
+    <img alt="C_sharp" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-00979D?logo=dart&logoColor=white"></img>
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8.svg?logo=PHP&logoColor=white"></img>
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></img>
     
 </p>
 
-<h3 align="left">Backend-as-a-Service (Baas)</h3>
-<p>
-   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=Firebase&logoColor=white"></img>
-</p>
 
 <h3 align="left">Web Servers</h3>
 <p>
@@ -54,17 +45,19 @@
 
 <h3 align="left">Framework & Libraries</h3>
 <p>
+  <img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"></img>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)"></img>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-D22128.svg?logo=Laravel&logoColor=white"></img>
-  <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2391E6.svg?logo=Flutter&logoColor=white"></img>
-  
+  <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img> 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></img>
 </p>
 
 <h3 align="left">Game Engines</h3>
 <p>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity%20-%2320232a.svg?logo=unity&logoColor=white"></img>
+    <img alt="Python" src="https://img.shields.io/badge/PyGame-3776AB.svg?logo=python&logoColor=white"></img>
+<!--     <img alt="Unity" src="https://img.shields.io/badge/Unity%20-%2320232a.svg?logo=unity&logoColor=white"></img>
     <img alt="UnrealEngine" src="https://img.shields.io/badge/UnrealEngine%20-%2320232a.svg?logo=UnrealEngine&logoColor=white"></img>
-    <img alt="Godotengine" src="https://img.shields.io/badge/Godotengine-478CBF.svg?logo=Godotengine&logoColor=white"></img>
+    <img alt="Godotengine" src="https://img.shields.io/badge/Godotengine-478CBF.svg?logo=Godotengine&logoColor=white"></img> -->
 </p>
 
 <h3 align="left">Databases</h3>
@@ -73,12 +66,13 @@
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
     <a href="#"><img alt="Xampp" src ="https://img.shields.io/badge/Xampp-F58025.svg?logo=Xampp&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
 </p>
 
 <h3 align="left">Software and tools</h3>
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-44A833.svg?logo=Vim&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-F58025?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -107,21 +101,18 @@
 
 <h3 align="left">Testing</h3>
 <p>
-    <a href="#"><img alt="Unit_test" src="https://img.shields.io/badge/Unit test-232F3E.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=python&logoColor=white"></a>
-</p>
-
-<h3 align="left">UML</h3>
-<p>
-    <a href="#"><img alt="Diagram" src="https://img.shields.io/badge/Diagram-232F3E.svg?logo=Diagram&logoColor=white"></a>
+    <a href="#"><img alt="Unit_test" src="https://img.shields.io/badge/Unit test-232F3E.svg?logo=Unit-test&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white"></a>
 </p>
 
 <h2 align="center"><strong>Contact</strong></h2>
 
 <p align="center">
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FB1869?logo=Instagram&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+    <a href="https://github.com/inttter/md-badges"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
+  <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img></a>
+  
 </p>
 
 If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
@@ -130,6 +121,8 @@ If you have any questions or would like to discuss any topic, please contact me.
 <p align="center">
  <img width="1000" src="Presentations/github-snake.svg" alt="snake"/>
 </p>
+
+
 
 
 

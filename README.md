@@ -122,9 +122,7 @@
 
 <h2 align="center"><strong>Contact</strong></h2>
 
-<p>If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you.</p>
-
-- Don't hesitate to email me at [se.anh.nguyenduc@gmail.com](mailto:se.anh.nguyenduc@gmail.com). I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
+If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
 
 
 

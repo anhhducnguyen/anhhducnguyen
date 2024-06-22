@@ -26,7 +26,8 @@
 <br>
 <br>
 
-Here is my Arsenal Tools and Skills I use;
+
+<h3 align="center"><strong>Here is my Arsenal Tools and Skills I use</strong></h3>
 <h3 align="left">Programming</h3>
 <p>
     <img alt="c" src="https://img.shields.io/badge/-2391E6.svg?logo=C&logoColor=white"></img>
@@ -114,6 +115,8 @@ Here is my Arsenal Tools and Skills I use;
 <p>
     <a href="#"><img alt="Diagram" src="https://img.shields.io/badge/Diagram-232F3E.svg?logo=Diagram&logoColor=white"></a>
 </p>
+
+<h3 align="center">Contact</h3>
 
 
 

@@ -3,25 +3,31 @@
 <a href="https://github.com/anhhducnguyen">
   <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=24&pause=2000&color=347D39&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Duc+Anh;Nice+to+meet+you!" alt="Typing SVG" />
 </a>
-
 </p>
 
-```
-🔭 I’m currently working on simple but elegant mobile and web apps
-🌱 I’m currently learning Everything I like
-👯 I’m looking to collaborate on trustable People
-🤔 I’m looking for help with developer Forums
-💬 Ask me about Things I know
-📫 How to reach me: On the Air for Everything
-😄 Pronouns: Me
-⚡ Fun fact: Mention only what I know based on the truth.
-```
+### About Me    
+I am an Information Technology major with a focus on `software development`.
+
+My passion for technology started when I was a child, when I was first exposed to computers and software. Since then, I've always wanted to learn more about how applications and software systems work.
+
+In addition, I am also very interested in new technologies such as artificial intelligence.
+
+### Social media    
+Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+
+<p align="left">
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+    <a href="https://github.com/inttter/md-badges"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
+  <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img></a>
+</p>
+
 
 <br>
 <br>
 
 
-<h2 align="center"><strong>Tools and Skills</strong></h2>
+<h2 align="left"><strong>Tools and Skills</strong></h2>
 <h3 align="left">Programming</h3>
 <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></img>
@@ -105,15 +111,7 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white"></a>
 </p>
 
-<h2 align="center"><strong>Contact</strong></h2>
-
-<p align="center">
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-    <a href="https://github.com/inttter/md-badges"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
-  <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img></a>
-  
-</p>
+<h2 align="left"><strong>Contact</strong></h2>
 
 If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
 

@@ -80,8 +80,9 @@ Here is my Arsenal Tools and Skills I use;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84.svg?logo=androidstudio&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/JupyterNotebook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="GithubActions" src="https://img.shields.io/badge/Github Actions-2088FF.svg?logo=githubactions logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=Anaconda&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-44A833.svg?logo=Vim&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-%2391E6.svg?logo=visual-studio&logoColor=white"></a>
 </p>
 
 <h3 align="left">Linux Distributions</h3>
@@ -101,7 +102,6 @@ Here is my Arsenal Tools and Skills I use;
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
-## Current project(s) I'm working/worked on
 
 
 

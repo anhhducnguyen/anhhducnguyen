@@ -17,11 +17,7 @@
 ⚡ Fun fact: Mention only what I know based on the truth.
 ```
 
-<p align="center">
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FB1869?logo=Instagram&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
-</p>
+
 
 <p align="left">
 
@@ -121,6 +117,12 @@
 </p>
 
 <h2 align="center"><strong>Contact</strong></h2>
+
+<p align="center">
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FB1869?logo=Instagram&logoColor=white"></a>
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
+</p>
 
 If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
 

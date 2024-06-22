@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0A66C2?logo=Facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF3474?logo=Instagram&logoColor=white"></a>
+    <a href="https://www.facebook.com/nguyenducanh0703"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FB1869?logo=Instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/nguyenducanh0703"><img alt="GitHub" src="https://img.shields.io/badge/Github%20-%2320232a.svg?logo=Github&logoColor=white"></img></a>
 </p>
 

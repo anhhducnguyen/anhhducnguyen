@@ -103,6 +103,18 @@ Follow other social networks to stay up to date with my journey and interests.
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
+### Project
+
+<a href="https://github.com/anhhducnguyen/travelEasyy/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=travelEasyy&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+</a>
+
 <h2 align="left"><strong>Contact</strong></h2>
 
 If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.

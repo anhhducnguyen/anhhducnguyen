@@ -103,7 +103,7 @@ Follow other social networks to stay up to date with my journey and interests.
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
-### Project
+<h2 align="left"><strong>Projects I have built and contributed to</strong></h2>
 
 <a href="https://github.com/anhhducnguyen/travelEasyy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -125,6 +125,11 @@ Follow other social networks to stay up to date with my journey and interests.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Dog-Shop&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/anhhducnguyen/Test-Mart">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Test-Mart&theme=synthwave" />
+</a> 
 
 <a href="https://github.com/anhhducnguyen/Website-selling-cosmetics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

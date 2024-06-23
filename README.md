@@ -110,9 +110,9 @@ Follow other social networks to stay up to date with my journey and interests.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=travelEasyy&theme=radical" />
 </a> 
 
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/anhhducnguyen/Supermarket-manager">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Supermarket-manager&theme=dark" />
 </a>
 
     
@@ -121,9 +121,9 @@ Follow other social networks to stay up to date with my journey and interests.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/anhhducnguyen/Dog-Shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Dog-Shop&theme=gruvbox" />
 </a>
 
 

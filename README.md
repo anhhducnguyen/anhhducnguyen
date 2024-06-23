@@ -107,7 +107,7 @@ Follow other social networks to stay up to date with my journey and interests.
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
-<h2 align="left"><strong>Projects I have built and contributed to</strong></h2>
+<h2 align="left"><strong>Projects I have built & contributed to</strong></h2>
 
 <a href="https://github.com/anhhducnguyen/travelEasyy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

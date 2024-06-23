@@ -111,19 +111,13 @@ Follow other social networks to stay up to date with my journey and interests.
 
 <a href="https://github.com/anhhducnguyen/travelEasyy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=travelEasyy&theme=radical" />
-</a> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=travelEasyy&theme=merko" />
+</a>
 
 <a href="https://github.com/anhhducnguyen/Supermarket-manager">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Supermarket-manager&theme=dark" />
-</a>
-
-    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Supermarket-manager&theme=onedark" />
+</a>    
 
 <a href="https://github.com/anhhducnguyen/Dog-Shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -132,13 +126,17 @@ Follow other social networks to stay up to date with my journey and interests.
 
 <a href="https://github.com/anhhducnguyen/Test-Mart">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Test-Mart&theme=synthwave" />
-</a> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Test-Mart&theme=cobalt" />
+</a>
 
 <a href="https://github.com/anhhducnguyen/Website-selling-cosmetics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Website-selling-cosmetics&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Website-selling-cosmetics&theme=merko" />
 </a>
+
+
+
+
 
 
 <h2 align="left"><strong>Contact</strong></h2>

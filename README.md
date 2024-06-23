@@ -120,7 +120,7 @@ Follow other social networks to stay up to date with my journey and interests.
 </a>    
 
 <br>
-<br>
+
 
 
 <a href="https://github.com/anhhducnguyen/Dog-Shop">
@@ -134,7 +134,7 @@ Follow other social networks to stay up to date with my journey and interests.
 </a>
 
 <br>
-<br>
+
 
 <a href="https://github.com/anhhducnguyen/Website-selling-cosmetics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -147,7 +147,7 @@ Follow other social networks to stay up to date with my journey and interests.
 </a>    
 
 <br>
-<br>
+
 
 <a href="https://github.com/anhhducnguyen/Dog-Shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

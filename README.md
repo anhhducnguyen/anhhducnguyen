@@ -10,6 +10,10 @@ I am an Information Technology major with a focus on `software development`.
 
 My passion for technology started when I was a child, when I was first exposed to computers and software. Since then, I've always wanted to learn more about how applications and software systems work. In addition, I am also very interested in new technologies such as `artificial intelligence`.
 
+### Academic achievement
+- My academic transcript: [Academic transcript](https://drive.google.com/file/d/1vg_Fp2n1KDFL05PBY6o1pD2ki0BPki3c/view?usp=sharing)
+
+
 ### Social media    
 Follow other social networks to stay up to date with my journey and interests. 
 

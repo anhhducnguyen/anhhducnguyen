@@ -12,6 +12,7 @@ My passion for technology started when I was a child, when I was first exposed t
 
 ### Academic achievement
 - My academic transcript: [Academic transcript](https://drive.google.com/file/d/1vg_Fp2n1KDFL05PBY6o1pD2ki0BPki3c/view?usp=sharing)
+- Chứng chỉ: [Quản trị dự án công nghệ thông tin](https://drive.google.com/drive/folders/1f4AL46MIkumV-xsb8EODEDLTtm59yVf2?usp=sharing)
 
 
 ### Social media    

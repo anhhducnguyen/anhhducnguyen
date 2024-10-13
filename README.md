@@ -151,14 +151,10 @@ Follow other social networks to stay up to date with my journey and interests.
 <br>
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 
-![](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anhhducnguyen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhducnguyen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
-</div>
-
 
 
 

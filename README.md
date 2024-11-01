@@ -164,6 +164,8 @@ Follow other social networks to stay up to date with my journey and interests.
 	</a> 
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/anhhducnguyen/)
+
 
 
 <h2 align="left"><strong>Contact</strong></h2>

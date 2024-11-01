@@ -166,7 +166,7 @@ Follow other social networks to stay up to date with my journey and interests.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhhducnguyen&theme=zenburn&utcOffset=8)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=calm&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhducnguyen&theme=cobalt&langs_count=8&layout=compact) 
+
 
 <h2 align="left"><strong>Contact</strong></h2>
 

@@ -156,6 +156,14 @@ Follow other social networks to stay up to date with my journey and interests.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anhhducnguyen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhducnguyen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## :trophy: Github Awards
+
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=anhhducnguyen&theme=chalk&margin-w=15&title=MultiLanguage,Stars,Followers,Repositories,Commits,Reviews" alt="thieu1995" />
+	</a> 
+</p>
+
 
 
 <h2 align="left"><strong>Contact</strong></h2>

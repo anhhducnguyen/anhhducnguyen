@@ -5,7 +5,7 @@
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anhhnguyenduc)](https://github.com/anhhnguyenduc/github-profile-trophy)
 
 ### About Me    
 I am an Information Technology major with a focus on `software development`.

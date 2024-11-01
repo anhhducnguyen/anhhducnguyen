@@ -145,10 +145,7 @@ Follow other social networks to stay up to date with my journey and interests.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Website-selling-cosmetics&theme=merko" />
 </a>
 
-<a href="https://github.com/anhhducnguyen/Smart-lock-application">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Smart-lock-application&theme=gruvbox" />
-</a>
+
 
 <a href="https://github.com/anhhducnguyen/Test-Mart">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

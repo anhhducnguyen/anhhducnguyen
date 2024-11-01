@@ -29,7 +29,7 @@ Follow other social networks to stay up to date with my journey and interests.
 <br>
 
 
-<h2 align="left"><strong>Tools and Skills</strong></h2>
+## :hammer_and_wrench: Tools and Skills
 <h3 align="left">Programming</h3>
 <p>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></img>

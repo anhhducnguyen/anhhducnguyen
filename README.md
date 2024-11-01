@@ -157,7 +157,9 @@ Follow other social networks to stay up to date with my journey and interests.
 
 ## :trophy: Github Awards
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anhhducnguyen&theme=onedark)](https://github.com/anhhducnguyen/)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anhhducnguyen)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

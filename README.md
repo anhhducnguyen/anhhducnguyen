@@ -153,7 +153,7 @@ Follow other social networks to stay up to date with my journey and interests.
 
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=anhhducnguyen&theme=chalk&margin-w=15&title=MultiLanguage,Stars,Experience" alt="anhhducnguyen" />
+	<img src="https://github-profile-trophy.vercel.app/?username=anhhducnguyen&theme=chalk&margin-w=15&title=MultiLanguage,Repositories,Experience" alt="anhhducnguyen" />
 	</a> 
 </p>
 

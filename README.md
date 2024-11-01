@@ -179,7 +179,7 @@ Follow other social networks to stay up to date with my journey and interests.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=calm&show_icons=true&count_private=true)
 
 
-<h2 align="left"><strong>Contact</strong></h2>
+## :telephone: Contact
 
 If you have any questions or would like to discuss any topic, please contact me. I am honored to connect and discuss with you. Don't hesitate to email me at `se.anh.nguyenduc@gmail.com` or phone number `0981402765`. I'm always available to answer your questions and discuss ideas, projects or collaboration opportunities. Email is the fastest and most direct way to contact me, and I will try to respond as soon as possible.
 

@@ -5,8 +5,6 @@
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anhhnguyenduc)](https://github.com/anhhnguyenduc)
-
 ### About Me    
 I am an Information Technology major with a focus on `software development`.
 

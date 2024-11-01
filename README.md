@@ -156,7 +156,15 @@ Follow other social networks to stay up to date with my journey and interests.
 [![trophy](https://github-profile-trophy.vercel.app/?username=anhhducnguyen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+## :zap: Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhhducnguyen&theme=zenburn)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhhducnguyen&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhhducnguyen&theme=zenburn&utcOffset=8)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=calm&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhducnguyen&theme=cobalt&langs_count=8&layout=compact) 
 
 <h2 align="left"><strong>Contact</strong></h2>
 

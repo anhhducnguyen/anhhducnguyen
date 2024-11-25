@@ -179,8 +179,9 @@ Follow other social networks to stay up to date with my journey and interests.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=calm&show_icons=true&count_private=true)
 
 <br>
-<img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
+<img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif" width="500"/>
 <br>
+
 
 ## :telephone: Contact
 

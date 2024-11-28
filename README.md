@@ -28,6 +28,11 @@ Follow other social networks to stay up to date with my journey and interests.
 <br>
 <br>
 
+<br>
+<img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif" width="1000"/>
+<br>
+
+
 
 ## :hammer_and_wrench: Tools and Skills
 <h3 align="left">Programming</h3>
@@ -178,9 +183,6 @@ Follow other social networks to stay up to date with my journey and interests.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anhhducnguyen&theme=calm&show_icons=true&count_private=true)
 
-<br>
-<img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif" width="500"/>
-<br>
 
 
 ## :telephone: Contact

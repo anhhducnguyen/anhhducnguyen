@@ -171,7 +171,10 @@ Follow other social networks to stay up to date with my journey and interests.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Student-Attendance-Face-ID-v1&theme=gruvbox" />
 </a>
 
+<br>
+<br>
 
+**Others:**
 
   
 

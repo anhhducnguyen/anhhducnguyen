@@ -161,6 +161,13 @@ Follow other social networks to stay up to date with my journey and interests.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Car-License-Plate-Recognition2&theme=onedark" />
 </a>  
 
+<a href="https://github.com/anhhducnguyen/Website-selling-cosmetics">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anhhducnguyen&repo=Website-selling-cosmetics&theme=merko" />
+</a>
+
+
+
   
 
 <br>

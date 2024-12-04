@@ -174,7 +174,7 @@ Follow other social networks to stay up to date with my journey and interests.
 <br>
 <br>
 
-**Others:**
+**Some other projects:**
 
 - [Russo-Ukrainian War](https://github.com/anhhducnguyen/Russo-Ukrainian-War)
   

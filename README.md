@@ -176,6 +176,7 @@ Follow other social networks to stay up to date with my journey and interests.
 
 **Some other projects:**
 
+- [Silent Face Anti Spoofing](https://github.com/anhhducnguyen/smartLockGPIO)
 - [Russo-Ukrainian War](https://github.com/anhhducnguyen/Russo-Ukrainian-War)
 - [Intrusion Warning](https://github.com/anhhducnguyen/IntrusionWarning)
 - [PKA's Mentor](https://github.com/anhhducnguyen/PKA-s-Mentor)

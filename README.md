@@ -176,6 +176,7 @@ Follow other social networks to stay up to date with my journey and interests.
 
 **Others:**
 
+- [Russo-Ukrainian War]()
   
 
 <br>

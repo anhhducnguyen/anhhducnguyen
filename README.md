@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Duc Anh  
 
-Ha Dong, Ha Noi | se.anh.nguyenduc@gmail.com | 0981402765 | [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/anhhducnguyen)
+Ha Dong, Ha Noi | se.anh.nguyenduc@gmail.com | 0981402765 | [LinkedIn](linkedin.com/in/anhduc-nguyen73)
 
 ## About Me
 - Final-year IT student specializing in **Backend Development**.

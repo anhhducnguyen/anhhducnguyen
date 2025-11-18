@@ -64,6 +64,8 @@ Follow other social networks to stay up to date with my journey and interests.
   <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></img>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff"></img>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff"></img>
+  <img alt="ReactJS" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"></img>
 </p>
 
 <h3 align="left">Game Engines</h3>

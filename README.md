@@ -83,6 +83,7 @@ Follow other social networks to stay up to date with my journey and interests.
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
     <a href="#"><img alt="Xampp" src ="https://img.shields.io/badge/Xampp-F58025.svg?logo=Xampp&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
+	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
 <h3 align="left">Software and tools</h3>
